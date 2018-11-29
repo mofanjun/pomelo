@@ -55,5 +55,9 @@
     "grunt-contrib-clean": "0.5.x",
     "grunt-contrib-jshint": "~0.8.0",
     "blanket": "~1.1.6"
+  },
+  "comment":{
+    "seq-queue":"Seq-queue is simple tool to keep requests to be executed in order.",
+    "cliff":"把数组格式化表格"
   }
 }
