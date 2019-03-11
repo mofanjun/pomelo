@@ -19,7 +19,7 @@ app.configure('production|development', 'connector', function(){
 
 // start app
 app.start();
-
+//test log....
 process.on('uncaughtException', function (err) {
   console.error(' Caught exception: ' + err.stack);
 });
